@@ -1,0 +1,14 @@
+body{
+    background-color: hwb(165 57% 24%);
+    font-family: serif;
+    font-size: large;
+    font: 200;
+    }
+   img#train {
+    width: 500px;
+    border: solid white;
+   }
+ h1{
+    color:rgb(189, 43, 43)
+ } 
+ h2{ color:rgb(189, 43, 43)}  
